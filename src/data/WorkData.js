@@ -5,35 +5,35 @@ export const Work = [
         id:1,
         name:"Korea Software HRD Center",
         description:"The best SW Professional Training Center in Cambodia.",
-        tags:["work", "teaching", "full-stack"],
+        tags:["planning", "teaching", "monitoring"],
         
         demo:"https://kshrd.com.kh/",
         github:""
     },
     {
         id:2,
-        name:"Job listing website",
-        description:"A Job listing website build in ReactJS. With searching and filtering functionalities.",
-        tags:["react","sass"],
+        name:"E-Commerce",
+        description:"Help to buy Cambodia Make your shopping become easier",
+        tags:["laravel","flutter"],
         
-        demo:"http://react-job-listing-website.codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/react-job-listing-website"
+        demo:"",
+        github:""
         
     },
     {
         id:3,
-        name:"Dev.to Clone",
-        description:"A clone of Dev.to build using ReactJS. With realtime fetching of articles from dev.to using API.",
-        tags:["react","api","sass"],
+        name:"HomeStore",
+        description:"E-Voucher Platform",
+        tags:["api",],
         
         demo:"http://devto-clone-codebucks27.vercel.app/",
         github:"https://github.com/codebucks27/devto-clone"
     },
     {
         id:4,
-        name:"Sidebar Menu",
-        description:"A cool looking sidebar menu build using ReactJS and styledComponents.It has really smooth animations.",
-        tags:["react","styledComponents","react-router"],
+        name:"Blog",
+        description:"Local and Global News platform",
+        tags:["data-modeling","api"],
         
         demo:"https://react-sidebar.vercel.app/",
         github:"https://github.com/codebucks27/react-sidebar"
