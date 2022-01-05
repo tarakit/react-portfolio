@@ -93,19 +93,22 @@ const MySkillsPage = () => {
 <ParticleComponent theme='light' />
             <Main>
 <Title>
-    <Design width={40} height={40} /> Designer
+    <Design width={40} height={40} /> Data Modeler
 </Title>
 <Description>
-I love to create design which speaks, Keep it clean, minimal and simple.
+I love to analyse businesses flow, turn them into modeling, bring straightforwardness.
 </Description>
 <Description>
-<strong>I like to Design</strong>
+<strong>Additional</strong>
 <ul>
     <li>
-        Web Design
+        Data Transfer
     </li>
     <li>
-        Mobile Apps
+        Data Synchronization
+    </li>
+    <li>
+        Structure Synchronization
     </li>
 </ul>
 </Description>
@@ -113,7 +116,7 @@ I love to create design which speaks, Keep it clean, minimal and simple.
 <strong>Tools</strong>
 <ul>
     <li>
-       Figma
+       Navicat, Talend Open Studio
     </li>
     
 </ul>
@@ -122,21 +125,21 @@ I love to create design which speaks, Keep it clean, minimal and simple.
             </Main>
             <Main>
 <Title>
-    <Develope width={40} height={40} /> Frontend Developer
+    <Develope width={40} height={40} /> Technology Proficiency
 </Title>
 <Description>
-I value business or brand for which i'm creating, thus i enjoy bringing new ideas to life.
+I love exploring and adopting to recent technologies.
 </Description>
 <Description>
 <strong>Skills</strong>
 <p>
-Html, Css, Js, React, Redux, Sass, Bootstrap, Tailwind, Firebase etc.
+Data Modeling, Android, Flutter, APIs, Servers & Scripting, Blockchain
 </p>
 </Description>
 <Description>
-<strong>Tools</strong>
+<strong>Languages</strong>
 <p>
-VScode, Github, Codepen etc.
+        Java, Golang
 </p>
 </Description>
 

@@ -161,7 +161,7 @@ export const Design = (props) => {
     <svg
       aria-hidden="true"
       data-prefix="fas"
-      data-icon="palette"
+      data-icon="database"
       className="prefix__svg-inline--fa prefix__fa-palette prefix__fa-w-16"
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 512 512"
